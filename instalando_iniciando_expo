@@ -1,0 +1,20 @@
+*instalar de forma global o expo
+npm install -g expo-cli
+
+*iniciar o projeto
+expo init nome_do_projeto
+
+*escolher qual template
+blank
+
+*nomear o projeto, mesmo não aparecendo nada pra digitar
+
+*"Y" e ok para utilizar o yarn
+
+*iniciar o expo no navegador
+yarn start
+
+
+*Biblioteca utilizada para nagvegação do React
+yarn add react-navigation
+expo install react-native-gesture-handler react-native-reanimated
