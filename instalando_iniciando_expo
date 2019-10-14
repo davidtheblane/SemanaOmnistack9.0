@@ -18,3 +18,6 @@ yarn start
 *Biblioteca utilizada para nagvegação do React
 yarn add react-navigation
 expo install react-native-gesture-handler react-native-reanimated
+
+*instalar o axios para comunicação com o backend
+yarn add axios
